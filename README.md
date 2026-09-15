@@ -1,83 +1,35 @@
 # Hi, I'm Hrithik Raj 👋
 
-### Computer Science Undergraduate @ IIIT Delhi | Software Developer | AI/ML Enthusiast
+### Computer Science Undergraduate @ IIIT Delhi
 
-I'm a Computer Science undergraduate at **IIIT Delhi** who enjoys building software, solving problems, and exploring how technology can be used to solve real-world challenges.
+I'm a Computer Science student at **IIIT Delhi** interested in **Software Development, AI/ML, and Generative AI**. I enjoy solving problems, learning new technologies, and building practical projects.
 
-I primarily work with **C++, Python, and Java**, and have experience with **Data Structures & Algorithms, Object-Oriented Programming, Databases, Operating Systems, Computer Networks, Machine Learning, and REST APIs**.
+### 💻 Skills
 
-I enjoy working on projects where I can learn by building — from real-time AI applications and network analysis to database systems, data-processing pipelines, and game development.
+**Languages:** C++ · Python · Java · SQL  
+**Technologies:** PostgreSQL · Scikit-learn · MediaPipe · PyTorch · REST APIs · Git  
+**Core:** DSA · OOP · DBMS · Operating Systems · Computer Networks
 
----
+### 🚀 What I've Built
 
-## 💻 Tech Stack
+🤟 **Real-Time Sign Language Interpreter**  
+AI-based sign recognition using Python, MediaPipe and Machine Learning.
 
-**Languages:**  
-C++ · Python · Java · SQL
+🌐 **Network Link Prediction**  
+Implemented multiple graph algorithms and evaluated them on real-world networks.
 
-**AI / ML:**  
-Scikit-learn · MediaPipe · PyTorch · Machine Learning · Generative AI
+🌪️ **Natural Disaster Management System**  
+Database-driven system using PostgreSQL and REST APIs.
 
-**Backend & Database:**  
-PostgreSQL · REST APIs · DBMS · SQL
+📺 **Web Data & Subtitle Extraction**  
+Python pipeline for collecting and processing multilingual video data.
 
-**Core Computer Science:**  
-Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · DBMS
+### 🔬 Currently Learning
 
-**Tools:**  
-Git · GitHub · VS Code · Linux
+Exploring **Generative AI and Machine Learning** while improving my DSA and software engineering skills.
 
----
+### 📫 Connect With Me
 
-## 🚀 Featured Projects
+Always open to learning, collaborating, and working on interesting projects.
 
-### 🤟 Real-Time Sign Language Interpreter
-A real-time sign language recognition system built using **Python, MediaPipe, and Machine Learning**, supporting multiple gesture-recognition modes with voice output.
-
-### 🌐 Network Analysis & Link Prediction
-Implemented and evaluated multiple link-prediction algorithms across different network topologies, including experiments on real-world network data.
-
-### 🌪️ Natural Disaster Management System
-A full-stack database management system built using **PostgreSQL and REST APIs**, designed to manage disaster-related information, resources, assignments, and operations.
-
-### 📺 Web Data & Subtitle Extraction Pipeline
-A Python-based data collection pipeline for extracting **audio, subtitles, and metadata** from hundreds of videos across multiple languages, with automated parsing and structured data generation.
-
-### 🐦 Angry Bird Game
-A 2D Angry Birds-inspired game developed using **Java and LibGDX**, implementing object-oriented design, collision detection, physics, levels, and interactive gameplay.
-
----
-
-## 🔬 Research & Learning
-
-I've also worked on research-oriented projects involving **Python-based data collection, web scraping, multilingual subtitle processing, data cleaning, and automated pipelines**.
-
-Currently, I'm exploring **Generative AI, Machine Learning, and modern AI applications**, while continuing to strengthen my software engineering and problem-solving skills.
-
----
-
-## 🎯 Currently
-
-- 🔭 Working on improving my **Software Development & DSA** skills
-- 🤖 Exploring **Generative AI & Machine Learning**
-- 🧠 Strengthening my **Computer Science fundamentals**
-- 🚀 Building projects to learn through practical experience
-- 🌱 Always learning something new
-
----
-
-## 📊 GitHub Stats
-
-<!-- Add your GitHub stats here -->
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning from others, collaborating on interesting projects, and discussing technology, software development, and AI.
-
-📫 Feel free to connect with me through GitHub or LinkedIn.
-
----
-
-### 💡 *Learn. Build. Break. Fix. Repeat.*
+**Code. Build. Learn. Repeat. 🚀**
